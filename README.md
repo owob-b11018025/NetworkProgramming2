@@ -10,7 +10,7 @@
 <tr>
 <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
 <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
-<td><a href="">巨量資料處理</a></td>
+<td><a href="">影像處理</a></td>
 <td>高O諺</td>
 </tr>
 <tr>
